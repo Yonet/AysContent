@@ -13,8 +13,8 @@
 
 ### WebXR
 
-- [How to build inclusive web applications using WebXR and AI](/Talks\HowToBuildInclusiveWebApplicationsWebXR&AI.md)
-- [Tutorials for Humans](Talks\TutorialsForHumans.md)
+- [How to build inclusive web applications using WebXR and AI](./Talks/HowToBuildInclusiveWebApplicationsWebXR&AI.md)
+- [Tutorials for Humans](./Talks/TutorialsForHumans.md)
 <!-- - []() -->
 
 ### Mixed Reality
@@ -25,10 +25,10 @@
 
 ### WebXR
 
-- [Getting started with Babylon.js](/Workshops\GettingStartedWithBabylonJS.md)
+- [Getting started with Babylon.js](./Workshops/GettingStartedWithBabylonJS.md)
 <!-- - []()
 - []() -->
 
 ### Mixed Reality
 
-- [Developing Multi-Platform Mixed Reality Solutions](/Workshops\DevelopingMulti-PlatformMixedRealitySolutions.md)
+- [Developing Multi-Platform Mixed Reality Solutions](./Workshops/DevelopingMulti-PlatformMixedRealitySolutions.md)

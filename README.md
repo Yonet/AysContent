@@ -19,7 +19,13 @@
 
 ### Mixed Reality
 
-<!-- - []() -->
+- [Future of User Interaction: Mixed Reality, AI and IoT](./Talks/FutureUX)
+- [How to build inclusive web applications using WebXR and AI](./Talks/HowToBuildInclusiveWebApplicationsWebXR&AI.md)
+- [Tutorials for Humans](./Talks/TutorialsForHumans.md)
+
+### AI
+
+- [Smart Apps: How you can incorporate AI into your applications](./Talks/IncorporateAI.md)
 
 ## Workshops
 

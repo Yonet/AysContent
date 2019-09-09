@@ -32,12 +32,13 @@
 ### WebXR
 
 - [Getting started with Babylon.js](./Workshops/GettingStartedWithBabylonJS.md)
-<!-- - []()
-- []() -->
+- [Virtual Reality Development on the Web](http://bit.ly/fem-webvr)
 
 ### Mixed Reality
 
 - [Developing Multi-Platform Mixed Reality Solutions](./Workshops/DevelopingMulti-PlatformMixedRealitySolutions.md)
+- [Mixed Reality Development with JavaScript](https://github.com/Yonet/MRDocs)
+- [Virtual Reality Development on the Web](http://bit.ly/fem-webvr)
 
 ### Topics 
 

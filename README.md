@@ -4,6 +4,7 @@
   - [Talks](#talks)
     - [WebXR](#webxr)
     - [Mixed Reality](#mixed-reality)
+    - [AI](#ai)
   - [Workshops](#workshops)
     - [WebXR](#webxr-1)
     - [Mixed Reality](#mixed-reality-1)

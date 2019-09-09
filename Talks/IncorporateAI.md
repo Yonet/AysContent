@@ -3,7 +3,7 @@
 ## Overview
 Today, smart consumer applications that talks to us, learn our behavior and recommend solutions tailored to our needs are part of our daily lives. We do expect a streaming service to recommend content according to our interests, a delivery service to estimate a delivery time and a virtual assistant to understand our questions. Although we all enjoy these features, we do design our applications without smart interactions in mind.
 
-In this talk, we will discuss what are the considerations to decide using Artificial Intelligence to solve your problems. We will look into [Azure Cognitive Services]() that can improve any user interactions.
+In this talk, we will discuss what are the considerations to decide using Artificial Intelligence to solve your problems. We will look into [Azure Cognitive Services](https://docs.microsoft.com/azure/cognitive-services/?WT.mc_id=docs-github-ayyonet) that can improve any user interactions.
 Lastly, we will add AI services and improve the performance of our models for a demo application.
 
 

@@ -38,3 +38,17 @@
 ### Mixed Reality
 
 - [Developing Multi-Platform Mixed Reality Solutions](./Workshops/DevelopingMulti-PlatformMixedRealitySolutions.md)
+
+### Topics 
+
+Feel free to open an issue or reach out to me on twitter@AysSomething to request a talk about below topics:
+
+* Mixed Reality Development for HoloLens: http://bit.ly/MixedRealityDocs
+* Mixed Reality JavaScript Development
+* Azure Spatial Anchors: http://bit.ly/AzureSpatialAnchors
+* Azure AI Services: http://bit.ly/AzureAIServices
+* Azure Speech: http://bit.ly/AzureSpeech
+* Speech To Text: http://bit.ly/SpeechApi
+* Ink Recognizer: http://bit.ly/InkRecognizer
+* Form Recognizer: http://bit.ly/FormRecognizer
+* Digital Twins: http://bit.ly/AzureDigitalTwins

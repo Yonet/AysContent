@@ -20,9 +20,10 @@
 
 ### Mixed Reality
 
-- [Future of User Interaction: Mixed Reality, AI and IoT](./Talks/FutureUX)
+- [Future of User Interaction: Mixed Reality, AI and IoT](./Talks/FutureUX.md)
 - [How to build inclusive web applications using WebXR and AI](./Talks/HowToBuildInclusiveWebApplicationsWebXR&AI.md)
 - [Tutorials for Humans](./Talks/TutorialsForHumans.md)
+- [New Possibilities with HoloLens 2](./Talks/NewPossibilitiesWithHoloLens2.md)
 
 ### AI
 

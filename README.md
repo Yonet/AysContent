@@ -27,6 +27,7 @@
 ### AI
 
 - [Smart Apps: How you can incorporate AI into your applications](./Talks/IncorporateAI.md)
+- [Azure AI & MR Services](./Talks/AzureAI&MR)
 
 ## Workshops
 

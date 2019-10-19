@@ -8,6 +8,7 @@
   - [Workshops](#workshops)
     - [WebXR](#webxr-1)
     - [Mixed Reality](#mixed-reality-1)
+    - [AI](#ai-1)
 
 
 ## Talks

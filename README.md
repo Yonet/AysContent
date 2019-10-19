@@ -28,7 +28,7 @@
 ### AI
 
 - [Smart Apps: How you can incorporate AI into your applications](./Talks/IncorporateAI.md)
-- [Azure AI & MR Services](./Talks/AzureAI&MR)
+- [Azure AI & MR Services](./Talks/AzureAI&MR.md)
 
 ## Workshops
 
@@ -42,6 +42,10 @@
 - [Developing Multi-Platform Mixed Reality Solutions](./Workshops/DevelopingMulti-PlatformMixedRealitySolutions.md)
 - [Mixed Reality Development with JavaScript](https://github.com/Yonet/MRDocs)
 - [Virtual Reality Development on the Web](http://bit.ly/fem-webvr)
+
+### AI
+
+- [Getting with Computer Vision](./Workshops/GettingStartedComputerVision.md) 
 
 ### Topics 
 

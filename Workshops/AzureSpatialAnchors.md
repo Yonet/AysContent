@@ -8,10 +8,6 @@
     - [Level](#level)
     - [Content tags](#content-tags)
   - [Agenda](#agenda)
-    - [Getting Started with Mixed Reality Development](#getting-started-with-mixed-reality-development)
-    - [Creating dynamic content to your Mixed Reality application](#creating-dynamic-content-to-your-mixed-reality-application)
-    - [Location aware Mixed Reality content. How to get started with Azure Spatial Anchors (ASA) Service](#location-aware-mixed-reality-content-how-to-get-started-with-azure-spatial-anchors-asa-service)
-    - [Azure Speech Services](#azure-speech-services)
 
 ## Overview
 
@@ -20,7 +16,7 @@
 Spatial Anchors allows you to place virtual object in a specific place in your real world. Spatial Anchors are available in iOS, Android and HoloLens headsets.
 Azure Spatial Anchors gives you a way to save and share anchor points in space, so that you can share the virtual objects or information between multiple devices and persist them over time.
 
-![Shared experiences using Azure Spatial Anchors](images/asa.jpg)
+![Shared experiences using Azure Spatial Anchors](../asa.jpg)
 
 ### Why Use Spatial Anchors?
 

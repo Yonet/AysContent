@@ -11,10 +11,10 @@
 
 ## Overview
 
-### What is [Azure Spatial Anchors]()?
+### What is [Azure Spatial Anchors](https://docs.microsoft.com/windows/mixed-reality/spatial-anchors?WT.mc_id=talksAndWorkshops-github-ayyonet)?
 
 Spatial Anchors allows you to place virtual object in a specific place in your real world. Spatial Anchors are available in iOS, Android and HoloLens headsets.
-Azure Spatial Anchors gives you a way to save and share anchor points in space, so that you can share the virtual objects or information between multiple devices and persist them over time.
+[Azure Spatial Anchors](https://docs.microsoft.com/azure/spatial-anchors/overview?WT.mc_id=talksAndWorkshops-github-ayyonet) gives you a way to save and share anchor points in space, so that you can share the virtual objects or information between multiple devices and persist them over time.
 
 ![Shared experiences using Azure Spatial Anchors](../asa.jpg)
 
@@ -35,7 +35,7 @@ Getting started with Mixed Reality Development with Unity3D and Azure Spatial An
 
 What are the tools to build multi-platform Mixed Reality experiences?
 How to get started with Azure Spatial Anchors SDK?
-How to connect your Spatial Anchors to develop a way-finding experience?
+How to connect your [Spatial Anchors to develop a way-finding experience?](https://docs.microsoft.com/en-us/azure/spatial-anchors/concepts/anchor-relationships-way-finding?WT.mc_id=talksAndWorkshops-github-ayyonet)
 What could go wrong?
 What are the design considerations that would make your app a better user experience?
 
@@ -54,7 +54,7 @@ Beginner
 
 ### Content tags
 
-MixedReality, SpatialAnchors, Unity3D, MRTK, HoloLens, Android, IOS, 3D, AR, SpatialAudio, DataViz Design, Mobile, Performance, Wearables
+[MixedReality](https://docs.microsoft.com/windows/mixed-reality/?WT.mc_id=talksAndWorkshops-github-ayyonet), [SpatialAnchors](https://docs.microsoft.com/azure/spatial-anchors/overview?WT.mc_id=talksAndWorkshops-github-ayyonet), [Unity3D](https://docs.microsoft.com/windows/mixed-reality/unity-development-overview?WT.mc_id=talksAndWorkshops-github-ayyonet), [MixedRealityToolKit](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases?WT.mc_id=talksAndWorkshops-github-ayyonet), [HoloLens](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-unity-hololens?WT.mc_id=talksAndWorkshops-github-ayyonet), Android, IOS, 3D, AR, SpatialAudio, DataViz Design, Mobile, Performance, Wearables
 
 ## Agenda
 

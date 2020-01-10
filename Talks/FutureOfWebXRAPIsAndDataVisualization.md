@@ -15,4 +15,4 @@ Beginner
 
 ## Tags
 
-WebXR, WebVR, MixedReality, AugmentedReality, VirtualReality, DataVisualization, WebDevelopment
+WebXR, WebVR, MixedReality, AugmentedReality, VirtualReality, DataVisualization, WebDevelopment, WebAPIs

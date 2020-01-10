@@ -37,11 +37,13 @@
 ### WebXR
 
 - [Getting started with Babylon.js](./Workshops/GettingStartedWithBabylonJS.md)
+![BabylonJS](./images/babylon.svg)
 - [Virtual Reality Development on the Web](http://bit.ly/fem-webvr)
 
 ### Mixed Reality
 
 - [Developing Multi-Platform Spatial Visualizations with Azure Spatial Anchors](Workshops\AzureSpatialAnchors.md)
+![Shared experiences using Azure Spatial Anchors](./images/asa.jpg)
 - [Developing Multi-Platform Mixed Reality Solutions](./Workshops/DevelopingMulti-PlatformMixedRealitySolutions.md)
 - [Mixed Reality Development with JavaScript](https://github.com/Yonet/MRDocs)
 - [Virtual Reality Development on the Web](http://bit.ly/fem-webvr)

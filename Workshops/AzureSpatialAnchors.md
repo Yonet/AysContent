@@ -1,4 +1,4 @@
-# Title: Developing Multi-Platform Spatial Visualizations with Azure Spatial Anchors
+# Developing Multi-Platform Spatial Visualizations with Azure Spatial Anchors
 
   - [Overview](#overview)
     - [Objective](#objective)
@@ -16,7 +16,7 @@
 Spatial Anchors allows you to place virtual object in a specific place in your real world. Spatial Anchors are available in iOS, Android and HoloLens headsets.
 [Azure Spatial Anchors](https://docs.microsoft.com/azure/spatial-anchors/overview?WT.mc_id=talksAndWorkshops-github-ayyonet) gives you a way to save and share anchor points in space, so that you can share the virtual objects or information between multiple devices and persist them over time.
 
-![Shared experiences using Azure Spatial Anchors](../asa.jpg)
+![Shared experiences using Azure Spatial Anchors](../images/asa.jpg)
 
 ### Why Use Spatial Anchors?
 

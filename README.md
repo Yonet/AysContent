@@ -15,6 +15,7 @@
 
 ### WebXR
 
+- [Future of WebXR APIs and Data Visualization](./Talks\FutureOfWebXRAPIsAndDataVisualization.md)
 - [How to build inclusive web applications using WebXR and AI](./Talks/HowToBuildInclusiveWebApplicationsWebXR&AI.md)
 - [Tutorials for Humans](./Talks/TutorialsForHumans.md)
 <!-- - []() -->
@@ -40,6 +41,7 @@
 
 ### Mixed Reality
 
+- [Developing Multi-Platform Spatial Visualizations with Azure Spatial Anchors](Workshops\AzureSpatialAnchors.md)
 - [Developing Multi-Platform Mixed Reality Solutions](./Workshops/DevelopingMulti-PlatformMixedRealitySolutions.md)
 - [Mixed Reality Development with JavaScript](https://github.com/Yonet/MRDocs)
 - [Virtual Reality Development on the Web](http://bit.ly/fem-webvr)

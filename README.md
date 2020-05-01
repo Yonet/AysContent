@@ -58,7 +58,7 @@
 Feel free to open an issue or reach out to me on twitter@AysSomething to request a talk about below topics:
 
 * Mixed Reality Development for HoloLens: http://bit.ly/MixedRealityDocs
-* Mixed Reality JavaScript Development
+* Mixed Reality JavaScript Development: https://bit.ly/MixedRealityJavaScript
 * Azure Spatial Anchors: http://bit.ly/AzureSpatialAnchors
 * Azure AI Services: http://bit.ly/AzureAIServices
 * Azure Speech: http://bit.ly/AzureSpeech

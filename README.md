@@ -22,6 +22,7 @@
 
 ### Mixed Reality
 
+- [Data Driven Mixed Reality Applications](./Talks/DataDrivenMRApplications.md)
 - [Future of User Interaction: Mixed Reality, AI and IoT](./Talks/FutureUX.md)
 - [How to build inclusive web applications using WebXR and AI](./Talks/HowToBuildInclusiveWebApplicationsWebXR&AI.md)
 - [Tutorials for Humans](./Talks/TutorialsForHumans.md)

@@ -1,5 +1,9 @@
 # Title: Building Data Driven Mixed Reality Applications
 
+## Demo Project
+
+[![California Fire Data Visualization Demo with Bing Maps](http://img.youtube.com/vi/TjjB4RUQTG8/0.jpg)](http://www.youtube.com/watch?v=TjjB4RUQTG8)
+
 ## Abstract
 
 The Data Driven Applications gives the ability to incorporate data into an application as well as dynamically share real time operations data. 

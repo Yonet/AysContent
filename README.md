@@ -22,6 +22,8 @@
 
 ### Mixed Reality
 
+[![California Fire Data Visualization Demo with Bing Maps](http://img.youtube.com/vi/TjjB4RUQTG8/0.jpg)](http://www.youtube.com/watch?v=TjjB4RUQTG8)
+
 - [Data Driven Mixed Reality Applications](./Talks/DataDrivenMRApplications.md)
 - [Future of User Interaction: Mixed Reality, AI and IoT](./Talks/FutureUX.md)
 - [How to build inclusive web applications using WebXR and AI](./Talks/HowToBuildInclusiveWebApplicationsWebXR&AI.md)

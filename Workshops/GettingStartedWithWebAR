@@ -1,4 +1,8 @@
 # Getting Started with Augmented Reality Applications on the Web
 
 Augmented Reality applications are becoming common user experiences on mobile devices. WebXR gives you a way to build for all mobile platforms as well as Augmented Reality headsets once.
-In this workshop you will learn the basic concepts of WebXR and 3D on the web, possible use cases for Augmeted Reality mobile applications that solves problems
+In this workshop you will learn:
+
+* The basic concepts of WebXR and 3D on the web.
+* Possible use cases for Augmeted Reality mobile applications that solves real world problems.
+* How to get started prototyping really fast.

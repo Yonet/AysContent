@@ -25,11 +25,11 @@ Some of the use cases are having user guides of machinery, inventory information
 Having smartphones and having access to the GPS data changed the apps we build and enabled ride sharing and location based recommendation applications.
 Developing with Azure Spatial Anchors will help you deliver contextual data at the right time and place and will open up new possibilities indoors. 
 
-In this workshop, you will learn how to get started with developing a mixed reality applications, using Azure Spatial Anchors for Android, iOS and HoloLens, using Unity3D and C#. 
+In this workshop, you will learn how to get started with developing a mixed reality applications, using Azure Spatial Anchors for Android, iOS or HoloLens, using. 
 
 ### Objective
 
-Getting started with Mixed Reality Development with Unity3D and Azure Spatial Anchors.
+Getting started with Azure Spatial Anchors and Mixed Reality Application development.
 
 ### Five Things Audience Members Will Learn
 

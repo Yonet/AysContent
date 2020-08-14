@@ -1,4 +1,6 @@
-# Getting Started With Computer Vision## Overview
+# Getting Started With Computer Vision 
+
+## Overview
 
 Learn how [Computer Vision Services](https://azure.microsoft.com/en-us/services/cognitive-services/directory/vision/?WT.mc_id=docs-github-ayyonet) makes it possible for apps and services to accurately identify and analyze content within images, videos, and digital ink.
 

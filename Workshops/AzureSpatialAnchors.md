@@ -54,7 +54,7 @@ Beginner
 
 ### Content tags
 
-[MixedReality](https://docs.microsoft.com/windows/mixed-reality/?WT.mc_id=talksAndWorkshops-github-ayyonet), [SpatialAnchors](https://docs.microsoft.com/azure/spatial-anchors/overview?WT.mc_id=talksAndWorkshops-github-ayyonet), [Unity3D](https://docs.microsoft.com/windows/mixed-reality/unity-development-overview?WT.mc_id=talksAndWorkshops-github-ayyonet), [MixedRealityToolKit](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases?WT.mc_id=talksAndWorkshops-github-ayyonet), [HoloLens](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-unity-hololens?WT.mc_id=talksAndWorkshops-github-ayyonet), Android, IOS, 3D, AR, SpatialAudio, DataViz Design, Mobile, Performance, Wearables
+[MixedReality](https://docs.microsoft.com/windows/mixed-reality/?WT.mc_id=talksAndWorkshops-github-ayyonet), [SpatialAnchors](https://docs.microsoft.com/azure/spatial-anchors/overview?WT.mc_id=talksAndWorkshops-github-ayyonet), [MixedRealityToolKit](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases?WT.mc_id=talksAndWorkshops-github-ayyonet), [HoloLens](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-unity-hololens?WT.mc_id=talksAndWorkshops-github-ayyonet), Android, IOS, 3D, AR, SpatialAudio, DataViz Design, Mobile, Performance, Wearables
 
 ## Agenda
 

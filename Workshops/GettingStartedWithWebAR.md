@@ -1,5 +1,7 @@
 # Getting Started with Augmented Reality Applications on the Web
 
+[![Augmented Reality on The Web Video](http://img.youtube.com/vi/trQYd-HVoBg/0.jpg)](http://www.youtube.com/watch?v=trQYd-HVoBg)
+
 Augmented Reality applications are becoming common user experiences on mobile devices. WebXR gives you a way to build for all mobile platforms as well as Augmented Reality headsets once.
 In this workshop you will learn:
 

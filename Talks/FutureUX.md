@@ -1,4 +1,4 @@
-# Future of User Interaction: Mixed Reality, AI and IoT.
+# Future of User Interaction: Mixed Reality, AI and IoT
 
 ## Abstract
 

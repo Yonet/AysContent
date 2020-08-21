@@ -1,6 +1,13 @@
-# My Talks And Workshops
+# Talks And Workshops
 
-- [My Talks And Workshops](#my-talks-and-workshops)
+## Overview  
+
+This is a list of workshops and conference talks I have given or you can request from me for your events. Detailed descriptions are linked below. I am happy to adjust the level of the talks and workshops for your event. If there is something else you are interested in learning feel free to reach out to me on [twitter@AysSomething](https://twitter.com/AysSomething) or create an issue in this repository. 
+
+You can find more of my tutorials at the [Video and Streaming](#video-and-streaming) links below.
+
+- [Talks And Workshops](#talks-and-workshops)
+  - [Video and Streaming](#video-and-streaming)
   - [Talks](#talks)
     - [WebXR](#webxr)
     - [Mixed Reality](#mixed-reality)
@@ -9,11 +16,23 @@
     - [WebXR](#webxr-1)
     - [Mixed Reality](#mixed-reality-1)
     - [AI](#ai-1)
+  - [Topics](#topics)
 
+## Video and Streaming
+
+- [Twitch@AysSomething](https://www.twitch.tv/ayssomething)
+- [YouTube@AysSomething](https://www.youtube.com/channel/UCeo_soIgcgBSd3SVRbs_MPQ)
+- [XR Developer YouTube Channel](https://www.youtube.com/channel/UC8ohQvrBXGvEvP_9X98r4bQ)
+- [WebXR YouTube Channel](https://www.youtube.com/channel/UCNzjXKJVyqYVyPY8rGKwFtQ)
+- [LearnXR Reddit Community](https://www.reddit.com/r/LearnXR/)
+- [30 Days of Unreal](https://github.com/Yonet/30DaysOfUnrealEngine/blob/main/README.md)
+- [XR Tea Party](https://github.com/Yonet/XRTeaParty)
 
 ## Talks
 
 ### WebXR
+
+[![Augmented Reality on The Web Video](http://img.youtube.com/vi/trQYd-HVoBg/0.jpg)](http://www.youtube.com/watch?v=trQYd-HVoBg)
 
 - [Future of WebXR APIs and Data Visualization](./Talks\FutureOfWebXRAPIsAndDataVisualization.md)
 - [How to build inclusive web applications using WebXR and AI](./Talks/HowToBuildInclusiveWebApplicationsWebXR&AI.md)
@@ -29,19 +48,26 @@
 - [How to build inclusive web applications using WebXR and AI](./Talks/HowToBuildInclusiveWebApplicationsWebXR&AI.md)
 - [Tutorials for Humans](./Talks/TutorialsForHumans.md)
 - [New Possibilities with HoloLens 2](./Talks/NewPossibilitiesWithHoloLens2.md)
+- [Immersive IoT Data Visualization](./Talks/ImmersiveIoTDataVisualization)
 
 ### AI
 
 - [Smart Apps: How you can incorporate AI into your applications](./Talks/IncorporateAI.md)
 - [Azure AI & MR Services](./Talks/AzureAI&MR.md)
+- [Building Data Driven Mixed Reality Applications](./Talks/DataDrivenMRApplications.md)
+- [Future of User Interaction: Mixed Reality, AI and IoT](./Talks/FutureUX.md)
+- [How to build inclusive web applications using WebXR and AI](./Talks/HowToBuildInclusiveWebApplicationsWebXR&AI.md)
 
 ## Workshops
 
 ### WebXR
 
 - [Getting started with Babylon.js](./Workshops/GettingStartedWithBabylonJS.md)
-![BabylonJS](./images/babylon.svg)
+
+[![BabylonJS 4.1 Trailer](http://img.youtube.com/vi/zHpI-6r2vw8/0.jpg)](http://www.youtube.com/watch?v=zHpI-6r2vw8)
+
 - [Virtual Reality Development on the Web](http://bit.ly/fem-webvr)
+- [Augmented Reality on The Web](https://youtu.be/trQYd-HVoBg)
 
 ### Mixed Reality
 

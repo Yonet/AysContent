@@ -79,7 +79,7 @@ You can find more of my tutorials at the [Video and Streaming](#video-and-stream
 
 ### AI
 
-- [Getting with Computer Vision](./Workshops/GettingStartedComputerVision.md) 
+- [Getting Started with Computer Vision](./Workshops/GettingStartedComputerVision.md) 
 
 ### Topics 
 

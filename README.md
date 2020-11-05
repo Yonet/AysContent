@@ -16,6 +16,7 @@ You can find more of my tutorials at the [Video and Streaming](#video-and-stream
     - [WebXR](#webxr-1)
     - [Mixed Reality](#mixed-reality-1)
     - [AI](#ai-1)
+  - [Blogs](#blogs)
   - [Topics](#topics)
 
 ## Video and Streaming
@@ -62,6 +63,7 @@ You can find more of my tutorials at the [Video and Streaming](#video-and-stream
 
 ### WebXR
 
+- [3D on the Web & WebXR](./Workshops/3DontheWev&WebXR.md)
 - [Getting started with Babylon.js](./Workshops/GettingStartedWithBabylonJS.md)
 
 [![BabylonJS 4.1 Trailer](http://img.youtube.com/vi/zHpI-6r2vw8/0.jpg)](http://www.youtube.com/watch?v=zHpI-6r2vw8)

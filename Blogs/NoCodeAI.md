@@ -3,9 +3,7 @@
 
 You might have an idea for an application using AI and not have anyone to build it. You might be a programmer and want to try out your ideas and Azure Custom Vision before you start writing code. No matter what your coding skills are, if you want to prototype an application with AI, Power Platform and it's AI Builder feature is a fast and easy option.
 
-This article explains what the power platform is as well as goes through a step by step process to create an app that detects objects from photos using Power Apps and AI Builder. ****Check out the video below to see the app we will build to detect different Mixed Reality Headsets such as HoloLens version 1 and 2 Augmented Reality and Virtual Reality headsets and their hand controllers.
-
-Read or skip through the questions to learn how to build your first Power App with AI features.
+This article explains what the power platform is as well as goes through a step by step process to create an app that detects objects from photos using Power Apps and AI Builder. Check out the video below to see the app we will build to detect different Mixed Reality Headsets such as HoloLens version 1 and 2 Augmented Reality and Virtual Reality headsets and their hand controllers.
 
   [![No Code AI App to Detect Mixed Reality Headsets](http://img.youtube.com/vi/VXD5ma2ZExw/0.jpg)](https://youtu.be/VXD5ma2ZExw)
 
@@ -21,15 +19,14 @@ Power Apps is a set of tools that allows you to create applications with a drag 
 
 A [**connector**](https://docs.microsoft.com/connectors/connectors?WT.mc_id=aiml-8438-ayyonet) is a proxy or a wrapper around an API that allows the underlying service to talk to Microsoft Power Automate, Microsoft Power Apps, and Azure Logic Apps. It provides a way for users to connect their accounts and leverage a set of pre-built **actions** and **triggers** to build their apps and workflows. For example, you can use [Twitter connector](https://docs.microsoft.com/connectors/twitter/?WT.mc_id=aiml-8438-ayyonet) to get tweet data and visualize it in a dashboard or use [Twilio connector](https://docs.microsoft.com/connectors/twilio/?WT.mc_id=aiml-8438-ayyonet) to send your users text messages without having to be an expert in Twitter or Twilio APIs or having to write a line of code. 
 
-{% hint style="info" %}
 Check out the[ list of connectors for Power Apps](https://docs.microsoft.com/en-us/connectors/connector-reference/connector-reference-powerapps-connectors?WT.mc_id=aiml-8438-ayyonet) to see all the APIs that are available. Notice [Power Automate](https://docs.microsoft.com/connectors/connector-reference/connector-reference-powerautomate-connectors?WT.mc_id=aiml-8438-ayyonet) or [Logic App connectors](https://docs.microsoft.com/connectors/connector-reference/connector-reference-logicapps-connectors?WT.mc_id=aiml-8438-ayyonet) might not be the same.
-{% endhint %}
+
 
 ### What is AI Builder?
 
 **AI Builder** is one of the additional features of Power Apps. With AI Builder, you can **add intelligence to your apps** even if you have no coding or data science skills. 
 
-![AI Builder Features on Power Apps](../images/PowerPlatform/aibuilderappview.png)
+![AI Builder Features on Power Apps](../images/PowerPlatform/aiBuilderAppView.png)
 
 #### What are some of the use cases for AI Builder?
 
@@ -60,7 +57,7 @@ Yes you can. As any tool that does things magically, AI Builder in Power Apps co
 
 If you want to go to production with Power Apps, it is a good idea to consider the costs. Thankfully there is an app for that.[ AI Builder Calculator](https://powerapps.microsoft.com/ai-builder-calculator/?WT.mc_id=aiml-8438-ayyonet) let's you input what **AI tools you will need** and **how many users** will be accessing your app's AI features and gives you the price it will cost you. 
 
-![AI Builder cost calculator](../images/PowerPlatform/aibuildercalculate%20%281%29.png)
+![AI Builder cost calculator](../images/PowerPlatform/aiBuilderCalculate.png)
 
 #### What are preview features?
 
@@ -68,7 +65,7 @@ AI Builder was released for **public preview** on June 10, 2019 in Europe and th
 
 The **General Availability \(GA**\) release will occur in a phased manner, with some features remaining in **preview status** while others are released for GA. You can check out the release status on the [AI Builder documentation](https://docs.microsoft.com/ai-builder/overview?WT.mc_id=aiml-8438-ayyonet#release-status).
 
-![AI Builder Preview features notice](../images/PowerPlatform/aibuilderpreview.png)
+![AI Builder Preview features notice](../images/PowerPlatform/AIBuilderPreview.png)
 ### Can I use Power Apps and AI Builder for production?
 #### What will my production app cost?
 #### What are the preview features?

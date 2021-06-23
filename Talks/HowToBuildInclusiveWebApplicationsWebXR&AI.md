@@ -16,7 +16,7 @@ What is WebXR Device API?
 How AI can help with accessibility and usability.
 What are some performance concerns using WebXR and AI cloud services.
 What can you do with Azure Vision and Speech APIs?
-Using BabelJS to create 2D & 3D experiences?
+Using [Babylon.JS](https://www.babylonjs.com/) to create 2D & 3D experiences?
 
 ### Target Audience
 
@@ -24,7 +24,7 @@ General knowledge of Web and JavaScript.
 
 ### Assumed Audience Knowledge
 
-- JavaScript
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - Working with [REST API](https://developer.mozilla.org/en-US/docs/Glossary/REST)
 - [TypeScript](https://www.typescriptlang.org/docs/home.html?WT.mc_id=docs-twitter-ayyonet)
 

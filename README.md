@@ -8,15 +8,22 @@ You can find more of my tutorials at the [Video and Streaming](#video-and-stream
 
 - [Talks And Workshops](#talks-and-workshops)
   - [Video and Streaming](#video-and-streaming)
+    - [AI](#ai)
+    - [Web](#web)
+    
   - [Talks](#talks)
     - [WebXR](#webxr)
     - [Mixed Reality](#mixed-reality)
-    - [AI](#ai)
+    - [AI](#ai-1)
+    - [Web](#web-1)
   - [Workshops](#workshops)
     - [WebXR](#webxr-1)
     - [Mixed Reality](#mixed-reality-1)
-    - [AI](#ai-1)
+    - [AI](#ai-2)
+    - [Web](#web-2)
   - [Blogs](#blogs)
+    - [AI](#ai-3)
+    - [Web](#web-3)
   - [Topics](#topics)
 
 ## Video and Streaming
@@ -28,6 +35,36 @@ You can find more of my tutorials at the [Video and Streaming](#video-and-stream
 - [LearnXR Reddit Community](https://www.reddit.com/r/LearnXR/)
 - [30 Days of Unreal](https://github.com/Yonet/30DaysOfUnrealEngine/blob/main/README.md)
 - [XR Tea Party](https://github.com/Yonet/XRTeaParty)
+
+### AI
+
+- [AI Show Live: aka.ms/AIShowLiveLatest](https://aka.ms/AIShowLiveLatest) every other Friday, 11am-1pm PST, on [bit.ly/LearnTVxr](https://docs.microsoft.com/learn/tv/?WT.mc_id=aiml-8567-ayyonet)
+- [AI Show episodes playlist: aka.ms/AIShowLivePlaylist](https://www.youtube.com/playlist?list=PLlrxD0HtieHinivDFATQd5qyjL6ijKHUF)
+
+### Dev
+
+- [How to set up remote development with Github Code Spaces and VS Code](https://youtu.be/ZWJglERhXLw)
+- [Introduction to editing Gitbook](https://youtu.be/KL6XhiwrzM0)
+
+### Web
+
+- [Create a Serverless API with VSCode](https://aka.ms/Video/CreateServerlessAPI)
+
+[![Create a Serverless API with VSCode](http://img.youtube.com/vi/VzML-6DClVU/0.jpg)](https://youtu.be/VzML-6DClVU)
+
+- [Getting started with 3D on the Web: BabylonJS vs ThreeJS code comparison](https://youtu.be/1BbxT9_SFVw)
+
+### XR 
+
+- [How to Get Started with Mixed Reality Development Using Unity](https://youtu.be/A0FHizvwB44)
+- [How to add BingMaps SDK to your project](https://youtu.be/pEdOls9kZGE)
+
+[![How to add BingMaps SDK to your project](http://img.youtube.com/vi/pEdOls9kZGE/0.jpg)](https://youtu.be/pEdOls9kZGE)
+
+- [BingMaps Part 1 - Import the assets](https://youtu.be/l4qBjz0mu-c)
+- [BingMaps - Part 2: Creating the 3D Map](https://youtu.be/PAYMKTKYrnQ)
+
+[![How to add BingMaps SDK to your project](http://img.youtube.com/vi/PAYMKTKYrnQ/0.jpg)](https://youtu.be/PAYMKTKYrnQ)
 
 ## Talks
 
@@ -63,7 +100,10 @@ You can find more of my tutorials at the [Video and Streaming](#video-and-stream
 
 ### WebXR
 
-- [3D on the Web & WebXR](./Workshops/3DontheWev&WebXR.md)
+- [3D on the Web & WebXR FrontendMasters Course](https://frontendmasters.com/courses/3d-webxr/), [workshop details](./Workshops/3DontheWev&WebXR.md)
+
+[![Frontend Masters WebXR Course](./images/frontendmasters.png)](https://frontendmasters.com/courses/3d-webxr/)
+
 - [Getting started with Babylon.js](./Workshops/GettingStartedWithBabylonJS.md)
 
 [![BabylonJS 4.1 Trailer](http://img.youtube.com/vi/zHpI-6r2vw8/0.jpg)](http://www.youtube.com/watch?v=zHpI-6r2vw8)
@@ -96,3 +136,15 @@ Feel free to open an issue or reach out to me on twitter@AysSomething to request
 * Ink Recognizer: http://bit.ly/InkRecognizer
 * Form Recognizer: http://bit.ly/FormRecognizer
 * Digital Twins: http://bit.ly/AzureDigitalTwins
+
+
+## Blogs
+
+### AI
+
+- [Accelerating the time to value with Azure Applied AI Services](https://techcommunity.microsoft.com/t5/azure-ai/accelerating-the-time-to-value-with-azure-applied-ai-services/ba-p/2377309?WT.mc_id=aiml-8567-ayyonet)
+- [Integrating AI: Prototyping a No-Code solution with Power Apps](https://techcommunity.microsoft.com/t5/azure-ai/integrating-ai-prototyping-a-no-code-solution-with-power-apps/ba-p/2189550?WT.mc_id=aiml-8567-ayyonet)
+
+### Web
+
+- [Everything you need to know to deploy an Azure Static Web App](https://dev.to/azure/everything-you-need-to-know-to-deploy-an-azure-static-web-app-fm6)

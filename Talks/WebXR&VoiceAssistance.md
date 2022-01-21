@@ -1,4 +1,4 @@
-# Title: Web Wednesday: Voice assistant & WebXR in web apps with Ayşegül Yönet
+# Title: Voice assistant & WebXR in web apps with Ayşegül Yönet
 
 ## Abstract
 

@@ -149,4 +149,5 @@ Feel free to open an issue or reach out to me on twitter@AysSomething to request
 
 ### Web
 
+- [How to Fix Your Security Vulnerabilities with NPM Overrides](https://medium.com/p/c4b5be0ab4f6)
 - [Everything you need to know to deploy an Azure Static Web App](https://dev.to/azure/everything-you-need-to-know-to-deploy-an-azure-static-web-app-fm6)

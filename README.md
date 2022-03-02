@@ -100,7 +100,9 @@ You can find more of my tutorials at the [Video and Streaming](#video-and-stream
 
 ## Workshops
 
-### WebXR
+### Web
+
+#### WebXR
 
 - [3D on the Web & WebXR FrontendMasters Course](https://frontendmasters.com/courses/3d-webxr/), [workshop details](./Workshops/3DontheWev&WebXR.md)
 

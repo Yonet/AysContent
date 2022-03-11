@@ -28,10 +28,11 @@ You can find more of my tutorials at the [Video and Streaming](#video-and-stream
 
 ## Video and Streaming
 
+- [Web Wednesday Microsoft Developer YouTube Channel](https://www.youtube.com/playlist?list=PLlrxD0HtieHhm3qFORKl1s-i5ZLS1ZPlN)
+- [WebXR YouTube Channel](https://www.youtube.com/WebXR)
 - [Twitch@AysSomething](https://www.twitch.tv/ayssomething)
 - [YouTube@AysSomething](https://www.youtube.com/channel/UCeo_soIgcgBSd3SVRbs_MPQ)
 - [XR Developer YouTube Channel](https://www.youtube.com/channel/UC8ohQvrBXGvEvP_9X98r4bQ)
-- [WebXR YouTube Channel](https://www.youtube.com/channel/UCNzjXKJVyqYVyPY8rGKwFtQ)
 - [LearnXR Reddit Community](https://www.reddit.com/r/LearnXR/)
 - [30 Days of Unreal](https://github.com/Yonet/30DaysOfUnrealEngine/blob/main/README.md)
 - [XR Tea Party](https://github.com/Yonet/XRTeaParty)

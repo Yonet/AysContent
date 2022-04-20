@@ -4,7 +4,8 @@
 
 - [Benjamin Cabé](https://twitter.com/kartben)
 - [Ayşegül Yönet](https://twitter.com/AysSomething)
-- [![Caleb](http://img.youtube.com/vi/tjDL8w1afjw/0.jpg)](https://youtu.be/tjDL8w1afjw?t=331)
+- Caleb
+[![Caleb](http://img.youtube.com/vi/tjDL8w1afjw/0.jpg)](https://youtu.be/tjDL8w1afjw?t=331)
 
 ## Abstract:
 

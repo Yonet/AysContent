@@ -4,7 +4,8 @@
 
 - [Benjamin Cabé](https://twitter.com/kartben)
 - [Ayşegül Yönet](https://twitter.com/AysSomething)
-- Caleb
+- [Caleb](https://blog.benjamin-cabe.com/2022/02/16/how-a-13-year-old-used-my-artificial-nose-to-diagnose-pneumonia)
+
 [![Caleb](http://img.youtube.com/vi/tjDL8w1afjw/0.jpg)](https://youtu.be/tjDL8w1afjw?t=331)
 
 ## Abstract:

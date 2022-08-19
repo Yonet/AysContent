@@ -79,9 +79,11 @@ You can find more of my tutorials at the [Video and Streaming](#video-and-stream
 - [How to build inclusive web applications using WebXR and AI](./Talks/HowToBuildInclusiveWebApplicationsWebXR&AI.md)
 - [Tutorials for Humans](./Talks/TutorialsForHumans.md)
 <!-- - []() -->
+- [Sniffing the Metaverse](https://github.com/Yonet/AysContent/blob/main/Talks/SniffingTheMetaverse.md)
 
 ### Mixed Reality
 
+- [Sniffing the Metaverse](https://github.com/Yonet/AysContent/blob/main/Talks/SniffingTheMetaverse.md)
 [![California Fire Data Visualization Demo with Bing Maps](http://img.youtube.com/vi/TjjB4RUQTG8/0.jpg)](http://www.youtube.com/watch?v=TjjB4RUQTG8)
 
 - [Data Driven Mixed Reality Applications](./Talks/DataDrivenMRApplications.md)
@@ -98,6 +100,8 @@ You can find more of my tutorials at the [Video and Streaming](#video-and-stream
 - [Building Data Driven Mixed Reality Applications](./Talks/DataDrivenMRApplications.md)
 - [Future of User Interaction: Mixed Reality, AI and IoT](./Talks/FutureUX.md)
 - [How to build inclusive web applications using WebXR and AI](./Talks/HowToBuildInclusiveWebApplicationsWebXR&AI.md)
+- [Sniffing the Metaverse](https://github.com/Yonet/AysContent/blob/main/Talks/SniffingTheMetaverse.md)
+
 
 ## Workshops
 

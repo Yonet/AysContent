@@ -28,6 +28,9 @@ You can find more of my tutorials at the [Video and Streaming](#video-and-stream
 
 ## Video and Streaming
 
+- [One Dev Questions - AI for JavaScritp Developers video series](https://youtube.com/playlist?list=PLlrxD0HtieHhejzXIMfhAB06nU-gp4Q-b)
+
+[![One Dev Questions - AI for JavaScript Developer](http://img.youtube.com/vi/dY-ACRYHPhM/0.jpg)](https://youtube.com/playlist?list=PLlrxD0HtieHhejzXIMfhAB06nU-gp4Q-b)
 - [Web Wednesday Microsoft Developer YouTube Channel](https://www.youtube.com/playlist?list=PLlrxD0HtieHhm3qFORKl1s-i5ZLS1ZPlN)
 - [WebXR YouTube Channel](https://www.youtube.com/WebXR)
 - [Twitch@AysSomething](https://www.twitch.tv/ayssomething)
@@ -38,6 +41,10 @@ You can find more of my tutorials at the [Video and Streaming](#video-and-stream
 - [XR Tea Party](https://github.com/Yonet/XRTeaParty)
 
 ### AI
+
+
+
+[![Building document intelligence applications with Azure Applied AI and Azure Cognitive | BRK13](http://img.youtube.com/vi/gh1kRmpoKxc/0.jpg)](https://youtu.be/gh1kRmpoKxc?t=1727)
 
 - [AI Show Live: aka.ms/AIShowLiveLatest](https://aka.ms/AIShowLiveLatest) every other Friday, 11am-1pm PST, on [bit.ly/LearnTVxr](https://docs.microsoft.com/learn/tv/?WT.mc_id=aiml-8567-ayyonet)
 - [AI Show episodes playlist: aka.ms/AIShowLivePlaylist](https://www.youtube.com/playlist?list=PLlrxD0HtieHinivDFATQd5qyjL6ijKHUF)
@@ -83,10 +90,11 @@ You can find more of my tutorials at the [Video and Streaming](#video-and-stream
 
 ### Mixed Reality
 
-- [Sniffing the Metaverse](https://github.com/Yonet/AysContent/blob/main/Talks/SniffingTheMetaverse.md)
+
 [![California Fire Data Visualization Demo with Bing Maps](http://img.youtube.com/vi/TjjB4RUQTG8/0.jpg)](http://www.youtube.com/watch?v=TjjB4RUQTG8)
 
 - [Data Driven Mixed Reality Applications](./Talks/DataDrivenMRApplications.md)
+- [Sniffing the Metaverse](https://github.com/Yonet/AysContent/blob/main/Talks/SniffingTheMetaverse.md)
 - [Future of User Interaction: Mixed Reality, AI and IoT](./Talks/FutureUX.md)
 - [How to build inclusive web applications using WebXR and AI](./Talks/HowToBuildInclusiveWebApplicationsWebXR&AI.md)
 - [Tutorials for Humans](./Talks/TutorialsForHumans.md)
